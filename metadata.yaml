@@ -1,0 +1,35 @@
+_repo: House-Rats-and-MiceFarmers-Bulletin-896_35542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lantz, David E. (David Ernest)
+    aliases:
+    - Lantz, D.
+    - Lantz, D. E. (David Ernest)
+    - Lantz, David
+    birthdate: 1855
+    deathdate: 1918
+    gutenberg_agent_id: '37739'
+    url: http://www.gutenberg.org/2009/agents/37739
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2011-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 896
+subjects:
+- !lcsh 'Mice'
+- !lcc 'S'
+- !lcsh 'Rats'
+title: House Rats and Mice
+url: http://www.gutenberg.org/ebooks/35542
